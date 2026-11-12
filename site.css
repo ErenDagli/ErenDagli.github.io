@@ -1,0 +1,21 @@
+/* Patili Pansiyon'la aynı dil: nane zemin, koyu çerçeve, beyaz kart, mercan düğme */
+:root{--ink:#24343B;--mint:#9FD3C7;--coral:#c2411c}
+*{box-sizing:border-box}
+body{margin:0;background:var(--mint);color:var(--ink);font:17px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif}
+.top{max-width:760px;margin:0 auto;padding:20px 20px 0;display:flex;align-items:center;justify-content:space-between}
+.top img{border:2.5px solid var(--ink);border-radius:14px}
+.top a{color:var(--ink);font-weight:700}
+main{max-width:760px;margin:0 auto;padding:16px 20px 32px}
+.card{background:#fff;border:2.5px solid var(--ink);border-radius:20px;padding:22px 24px;margin-bottom:20px;box-shadow:0 5px 0 rgba(36,52,59,.18)}
+h1{font-size:clamp(1.7rem,5vw,2.4rem);line-height:1.1;margin:0 0 12px}
+h2{font-size:1.6rem;line-height:1.2;margin:0 0 12px}
+h3{font-size:1.2rem;margin:20px 0 4px}
+.lead{font-size:1.1rem;margin:0 0 16px}
+.d{color:#5b6b70;font-size:.9rem;margin:12px 0 0}
+.btn{display:inline-block;background:var(--coral);color:#fff;font-weight:800;text-decoration:none;padding:12px 22px;border:2.5px solid var(--ink);border-radius:999px;box-shadow:0 4px 0 var(--ink)}
+.btn:focus-visible,.top a:focus-visible,footer a:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+.shots{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:20px}
+.shots img{width:100%;height:auto;border:2.5px solid var(--ink);border-radius:16px;display:block}
+ol,ul{padding-left:1.3em;margin:0}li{margin:6px 0}
+footer{text-align:center;padding:0 20px 40px}footer a{color:var(--ink)}
+@media (max-width:520px){.shots{grid-template-columns:1fr 1fr}.shots img:last-child{display:none}}

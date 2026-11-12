@@ -1,0 +1,6 @@
+# Everything on this site is public and meant to be found, cited and summarised,
+# by search engines and by AI assistants alike.
+User-agent: *
+Allow: /
+
+Sitemap: https://erendagli.github.io/sitemap.xml

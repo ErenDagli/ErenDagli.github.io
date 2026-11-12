@@ -1,0 +1,24 @@
+# Rugsy: Carpet Wash ASMR (Türkçe: Rugsy: Halı Yıkama Oyunu)
+
+> A free, offline mobile game for Android and iOS: a cozy rug cleaning game set in a 3D Turkish neighborhood. The player is the local rug cleaner who collects dirty rugs at people's doors, washes them with foam, a brush and a pressure washer, dries them on a line and delivers them back. The game has no words on screen (icons, colors and numbers only), so it is playable in any language.
+
+Key facts (version 1.6, updated 2026-11-02):
+
+- Price: free. No in-app purchases.
+- Ads: rewarded ads opened only when the player taps the button (double the day's earnings, three more rugs, tea for the crew), and an interstitial only between two in-game days (never in the first days or during a wash). No banners. Ads are requested as non-personalized. A one-time support pack removes all ads.
+- Offline: fully playable without internet; only the optional ad needs a connection.
+- Language: no text in the game. Store pages exist in Turkish and English.
+- Platforms: Android (Google Play package `com.velphos.haliyikama`) and iOS.
+- Gameplay loop: walk with a virtual joystick → pick up a dirty rug at a door → wash it at the shop counter (foam, brush, pressure washer, squeegee; later stain remover, rug perfume, wet vacuum, steam) → it dries on the line → deliver it to the owner, who waves and pays → the house gets painted and decorated.
+- Rugs: doormats, living-room rugs, shaggy, pet-stained, silk and antique rugs; modern designs and Turkish regional weaves (Uşak, Milas, Bergama, Kayseri, Ladik, Hereke, Yağcıbedir).
+- Not in the game: accounts, multiplayer, chat, text to read, violence.
+
+## Pages
+
+- [Türkçe tanıtım sayfası](https://erendagli.github.io/): oyunun ne olduğu, nasıl oynandığı, sık sorulanlar
+- [English page](https://erendagli.github.io/en/): what the game is, how to play, FAQ
+- [Gizlilik politikası / Privacy policy](https://erendagli.github.io/privacy.html): what data the ads use, what stays on the device
+
+## Stores
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.velphos.haliyikama)
